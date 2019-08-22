@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DrawerPOC</string>
+
+    <string name="toolbar_title">Drawer POC</string>
+    <string name="navbar_img_description_avatar">Avatar</string>
+    <string name="navbar_txt_menu_home">Início</string>
+    <string name="navbar_txt_menu_video">Vídeo</string>
+    <string name="navbar_txt_menu_cloud">Nuvem</string>
+    <string name="navbar_txt_menu_history">Histórico</string>
+    <string name="navbar_txt_menu_translate">Tradução</string>
+    <string name="navbar_txt_menu_settings">Configurações</string>
+    <string name="navbar_txt_description_open_drawer">Abrir menu</string>
+    <string name="navbar_txt_description_close_drawer">Fechar menu</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/navbar_txt_menu_home"
+            android:icon="@drawable/ic_home_24dp"/>
+
+        <item
+            android:id="@+id/nav_video"
+            android:title="@string/navbar_txt_menu_video"
+            android:icon="@drawable/ic_video_library_24dp" />
+
+        <item
+            android:id="@+id/nav_cloud"
+            android:title="@string/navbar_txt_menu_cloud"
+            android:icon="@drawable/ic_cloud_24dp"/>
+
+        <item
+            android:id="@+id/nav_history"
+            android:title="@string/navbar_txt_menu_history"
+            android:icon="@drawable/ic_history_24dp"/>
+
+        <item
+            android:id="@+id/nav_translate"
+            android:title="@string/navbar_txt_menu_translate"
+            android:icon="@drawable/ic_translate_24dp"/>
+
+        <item
+            android:id="@+id/nav_settings"
+            android:title="@string/navbar_txt_menu_settings"
+            android:icon="@drawable/ic_build_24dp"/>
+    </group>
+</menu>
